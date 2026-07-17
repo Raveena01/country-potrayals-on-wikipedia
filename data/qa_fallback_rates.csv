@@ -1,0 +1,13 @@
+lang,requested_page_type,fallback_rate,n
+en,economy,0.0,236
+en,main,0.0,240
+en,politics,0.0,277
+es,economy,0.0,203
+es,main,0.0,240
+es,politics,0.018433179723502304,217
+fr,economy,0.0,233
+fr,main,0.0,237
+fr,politics,0.00819672131147541,244
+ru,economy,0.0,231
+ru,main,0.0,240
+ru,politics,0.0,216
