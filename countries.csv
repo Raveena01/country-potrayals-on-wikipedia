@@ -1,0 +1,61 @@
+country,hdi_group,hdi_rank,hdi_2023
+Iceland,top20_developed,1,0.972
+Norway,top20_developed,2,0.970
+Switzerland,top20_developed,2,0.970
+Denmark,top20_developed,4,0.962
+Germany,top20_developed,5,0.959
+Sweden,top20_developed,5,0.959
+Australia,top20_developed,7,0.958
+Netherlands,top20_developed,8,0.955
+Belgium,top20_developed,10,0.951
+Austria,top20_developed,22,0.93
+Finland,top20_developed,12,0.948
+Singapore,top20_developed,13,0.946
+United Kingdom,top20_developed,13,0.946
+United Arab Emirates,top20_developed,15,0.940
+Canada,top20_developed,16,0.939
+Liechtenstein,top20_developed,17,0.938
+New Zealand,top20_developed,17,0.938
+United States,top20_developed,17,0.938
+South Korea,top20_developed,20,0.937
+Japan,top20_developed,23,0.925
+Cuba,middle20,97,0.762
+Dominica,middle20,98,0.761
+Paraguay,middle20,99,0.756
+Egypt,middle20,100,0.754
+Jordan,middle20,100,0.754
+Lebanon,middle20,102,0.752
+Saint Lucia,middle20,103,0.748
+Mongolia,middle20,104,0.747
+Tunisia,middle20,105,0.746
+South Africa,middle20,106,0.741
+Uzbekistan,middle20,107,0.740
+Bolivia,middle20,108,0.733
+Gabon,middle20,108,0.733
+Marshall Islands,middle20,108,0.733
+Botswana,middle20,111,0.731
+Fiji,middle20,111,0.731
+Indonesia,middle20,113,0.728
+Suriname,middle20,114,0.722
+Belize,middle20,115,0.721
+Libya,middle20,115,0.721
+Guinea-Bissau,bottom20_developing,174,0.514
+Djibouti,bottom20_developing,175,0.513
+Sudan,bottom20_developing,176,0.511
+Liberia,bottom20_developing,177,0.510
+Eritrea,bottom20_developing,178,0.503
+Guinea,bottom20_developing,179,0.500
+Ethiopia,bottom20_developing,180,0.497
+Afghanistan,bottom20_developing,181,0.496
+Mozambique,bottom20_developing,182,0.493
+Madagascar,bottom20_developing,183,0.487
+Yemen,bottom20_developing,184,0.470
+Sierra Leone,bottom20_developing,185,0.467
+Burkina Faso,bottom20_developing,186,0.459
+Burundi,bottom20_developing,187,0.439
+Mali,bottom20_developing,188,0.419
+Niger,bottom20_developing,188,0.419
+Chad,bottom20_developing,190,0.416
+Central African Republic,bottom20_developing,191,0.414
+Somalia,bottom20_developing,192,0.404
+South Sudan,bottom20_developing,193,0.388
